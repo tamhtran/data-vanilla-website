@@ -1,0 +1,43 @@
+# site settings
+title: Data Vanilla
+email: datavanilla.tt@gmail.com
+description: The next generation of rating </br> Modern API </br> Leverage LLMs to interpret rating compliance documents
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+street_address:
+city: Santa Monica
+state: CA
+zip_code:
+country: United States of America
+phone:
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 0
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub: https://github.com/tamhtran
+  GitLab:
+  Google-Plus:
+  Instagram:
+  LinkedIn: https://www.linkedin.com/in/tamhtran
+  Twitter: https://twitter.com/beachbunnyinla
+  Facebook:
+  Slack:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
