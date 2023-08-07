@@ -1,7 +1,7 @@
 # site settings
 title: Data Vanilla
 email: datavanilla.tt@gmail.com
-description: The next generation of rating </br> Modern API </br> Leverage LLMs to interpret rating compliance documents
+description: The next generation of rating </br>- Modern API </br>- Leverage LLMs to interpret rating compliance documents
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
